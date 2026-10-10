@@ -1,0 +1,4 @@
+For lab07, i had my repo named as lab_07 with an underscore and I submitted the assignment already, but when i tried to open
+it in powershell, it wouldnt let me cd lab_07 and also didnt show whenever i typed ls. So to do this assignment, I created 
+another repo called lab07 without the underscore and copied the previous code onto there and continued off of what I had which
+is why the repositories are different if thats fine.

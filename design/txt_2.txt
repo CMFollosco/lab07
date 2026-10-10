@@ -1,0 +1,8 @@
+Reading
+day: string
+high: i32
+
+Summary
+average: f64
+hottest_day: string
+days_above: usize

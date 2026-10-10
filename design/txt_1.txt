@@ -1,0 +1,16 @@
+STRUCT AUDIT
+
+DAYS
+just leave it because its a constant list of weekday labels and doesn't need to store multiple pieces of related data
+
+highs
+Change it to a collection of structs since each temperature belongs to a specific day and should be stored together
+
+DAYS[i] paired with highs[i]
+Convert to a struct because day name and temperature represent one reading and belong together.
+
+Return value of hottest_day
+leave it alone since returning an index is still useful for locating the hottest Reading
+
+Threshold 75
+leave it since it is a single integer value and doesn't represent related data
